@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="181.10201mm"
+   height="82.764999mm"
+   viewBox="0 0 181.10201 82.764999"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
+   sodipodi:docname="proof.svg"
+   inkscape:export-filename="proof.png"
+   inkscape:export-xdpi="512"
+   inkscape:export-ydpi="512"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.102876"
+     inkscape:cx="291.96392"
+     inkscape:cy="58.936816"
+     inkscape:window-width="2560"
+     inkscape:window-height="1396"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="596.58826"
+       y="540.88562"
+       width="1.7631571"
+       height="17.874901"
+       id="rect2" />
+    <filter
+       y="-0.017633145"
+       height="1.0352663"
+       inkscape:menu-tooltip="Darkens the edge with an inner blur and adds a flexible glow"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Dark and Glow"
+       style="color-interpolation-filters:sRGB"
+       id="filter54"
+       x="-0.0077303545"
+       width="1.0154607">
+      <feGaussianBlur
+         stdDeviation="0.564"
+         result="result6"
+         id="feGaussianBlur53" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite53" />
+      <feComposite
+         result="result9"
+         operator="over"
+         in2="SourceAlpha"
+         in="result8"
+         id="feComposite54" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result10"
+         id="feColorMatrix54" />
+      <feBlend
+         in="result10"
+         mode="normal"
+         in2="result6"
+         id="feBlend54" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.0564446,4.5155683)">
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:3.63433;stroke-linecap:round;-inkscape-stroke:none"
+       id="rect54"
+       width="183.10201"
+       height="84.764999"
+       x="-0.94355541"
+       y="-5.5155683" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:1.2;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;letter-spacing:0px;word-spacing:0px;display:inline;fill:#06d5fe;fill-opacity:0.43140134;stroke-width:0.264583;filter:url(#filter54)"
+       x="2.9435556"
+       y="7.515552"
+       id="text53"><tspan
+         sodipodi:role="line"
+         id="tspan47"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;fill:#06d5fe;fill-opacity:0.43140134;stroke-width:0.264583"
+         x="2.9435556"
+         y="7.515552">0123456789</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;fill:#06d5fe;fill-opacity:0.43140134;stroke-width:0.264583"
+         x="2.9435556"
+         y="21.062233"
+         id="tspan48">ABCDEFGHIJ-L-NOPQRSTU---Y-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;fill:#06d5fe;fill-opacity:0.43140134;stroke-width:0.264583"
+         x="2.9435556"
+         y="34.608913"
+         id="tspan49">abcdefghij-l-nopqrstu---y-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;fill:#06d5fe;fill-opacity:0.43140134;stroke-width:0.264583"
+         x="2.9435556"
+         y="48.155594"
+         id="tspan50">On OFF OPEN CLOSE</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;fill:#06d5fe;fill-opacity:0.43140134;stroke-width:0.264583"
+         x="2.9435556"
+         y="61.702274"
+         id="tspan51">PLAY PAUSE SToP Error</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;fill:#06d5fe;fill-opacity:0.43140134;stroke-width:0.264583"
+         x="2.9435556"
+         y="75.248955"
+         id="tspan52">Create Inject read</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;fill:#06d5fe;fill-opacity:0.43140134;stroke-width:0.264583"
+         x="2.9435556"
+         y="88.795639"
+         id="tspan53" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;line-height:1.2;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;letter-spacing:0px;word-spacing:0px;display:inline;fill:#06d5fe;fill-opacity:1;stroke-width:0.264583"
+       x="2.9435556"
+       y="7.515552"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;fill:#06d5fe;fill-opacity:1;stroke-width:0.264583"
+         x="2.9435556"
+         y="7.515552">0123456789</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;fill:#06d5fe;fill-opacity:1;stroke-width:0.264583"
+         x="2.9435556"
+         y="21.062233"
+         id="tspan3">ABCDEFGHIJ-L-NOPQRSTU---Y-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;fill:#06d5fe;fill-opacity:1;stroke-width:0.264583"
+         x="2.9435556"
+         y="34.608913"
+         id="tspan2">abcdefghij-l-nopqrstu---y-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;fill:#06d5fe;fill-opacity:1;stroke-width:0.264583"
+         x="2.9435556"
+         y="48.155594"
+         id="tspan6">On OFF OPEN CLOSE</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;fill:#06d5fe;fill-opacity:1;stroke-width:0.264583"
+         x="2.9435556"
+         y="61.702274"
+         id="tspan7">PLAY PAUSE SToP Error</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;fill:#06d5fe;fill-opacity:1;stroke-width:0.264583"
+         x="2.9435556"
+         y="75.248955"
+         id="tspan11">Create Inject read</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:GERapidCleanII;-inkscape-font-specification:GERapidCleanII;fill:#06d5fe;fill-opacity:1;stroke-width:0.264583"
+         x="2.9435556"
+         y="88.795639"
+         id="tspan5" /></text>
+  </g>
+</svg>
